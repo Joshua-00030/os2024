@@ -1,0 +1,7 @@
+Post http://localhost:3001/magicAdd
+Content-Type: application/json
+
+{
+    "number1": 3,
+    "number2": 5
+}
