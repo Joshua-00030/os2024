@@ -1,7 +1,7 @@
-Post http://localhost:3001/magicAdd
+Post http://158.101.29.37:3001/magicAdd
 Content-Type: application/json
 
 {
-    "number1": 3,
-    "number2": 5
+    "number1": 32,
+    "number2": 5.6
 }
